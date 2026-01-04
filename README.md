@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .YOU one-word domains still available to buy.
 
-This dataset contains 7,052 .YOU one word domains with availability, attractiveness and demand scores.
+This dataset contains 7,049 .YOU one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.YOU one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=you-oneword-domains&utm_content=description.top) (7,052) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -30,14 +30,14 @@ If you want to search & filters the complete database of [.YOU one word domains]
 | abiding.you        | available | 106      | 5%     | 7      |           |         |         |
 | ability.you        | premium   | 92       | 14%    | 7      |           |         |         |
 | abit.you           | available | 66       | 12%    | 5      |           |         |         |
-| able.you           | premium   | 80       | 26%    | 4      |           |         |         |
+| able.you           | premium   | 80       | 25%    | 4      |           |         |         |
 | abnormal.you       | available | 74       | 14%    | 8      |           |         |         |
 | aboard.you         | available | 68       | 6%     | 6      |           |         |         |
 | abomb.you          | available | 102      | 2%     | 6      |           |         |         |
 | abouteast.you      | available | 58       | 1%     | 10     |           |         |         |
 | aboutship.you      | available | 70       | 1%     | 10     |           |         |         |
 | abouttime.you      | available | 60       | 6%     | 10     |           |         |         |
-| above.you          | premium   | 112      | 18%    | 5      |           |         |         |
+| above.you          | premium   | 112      | 17%    | 5      |           |         |         |
 | aboveabit.you      | available | 56       | 1%     | 11     |           |         |         |
 | aboveall.you       | available | 72       | 6%     | 9      |           |         |         |
 | abovecited.you     | available | 58       | 1%     | 11     |           |         |         |
@@ -50,7 +50,7 @@ If you want to search & filters the complete database of [.YOU one word domains]
 | abroad.you         | available | 92       | 9%     | 6      |           |         |         |
 | absence.you        | available | 64       | 5%     | 7      |           |         |         |
 | absent.you         | available | 102      | 8%     | 6      |           |         |         |
-| absolute.you       | available | 80       | 22%    | 8      |           |         |         |
+| absolute.you       | available | 80       | 21%    | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/you-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.YOU one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
