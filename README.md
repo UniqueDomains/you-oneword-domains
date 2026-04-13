@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .you one-word domains from Unique 
 
 **Public extract:** 7,073 rows · **Live catalog:** 7,073 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/you`  
 **Best for:** founders, investors, studios
 
@@ -72,16 +72,16 @@ print(df.head())
 | nationwide.you | premium   | $62.50    | $62.50        | 76             | 66     | 10     | name.com              |
 | goon.you       | available | $27.98    | —             | 80             | 35     | 5      | namecheap             |
 | line.you       | resell    | —         | —             | 74             | 65     | 4      | Dynadot, LLC          |
-| free.you       | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com              |
+| ace.you        | premium   | $625      | $625          | 88             | 57     | 3      | name.com              |
 | ethereal.you   | available | $27.98    | —             | 88             | 31     | 8      | namecheap             |
 | jesus.you      | resell    | —         | —             | 126            | 52     | 5      | 101domain GRS Limited |
-| ace.you        | premium   | $625      | $625          | 88             | 57     | 3      | name.com              |
+| free.you       | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com              |
 | aesthetic.you  | available | $27.98    | —             | 88             | 29     | 9      | namecheap             |
 | for.you        | resell    | —         | —             | 80             | 49     | 3      | Dynadot, LLC          |
 | live.you       | premium   | $312.50   | $312.50       | 108            | 56     | 4      | name.com              |
 | curative.you   | available | $27.98    | —             | 92             | 27     | 8      | namecheap             |
 | bridge.you     | resell    | —         | —             | 68             | 47     | 6      | Porkbun LLC           |
-| alpha.you      | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com              |
+| zero.you       | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com              |
 | tonic.you      | available | $27.98    | —             | 114            | 25     | 5      | namecheap             |
 | auto.you       | resell    | —         | —             | 68             | 45     | 4      | Spaceship, Inc.       |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
