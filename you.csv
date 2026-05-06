@@ -51,6 +51,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 051426cf-a9ed-4815-84b6-e021499eb81a,haveon.you,available,27.98,,76,2,7,namecheap,,
 0522fdc7-50c2-4647-bf43-b8a28d09b4e3,toexcess.you,available,27.98,,55,0,9,namecheap,,
 053fb3c4-0aaa-4579-b611-f8ea7e769d6b,Ihaveatoothache.you,available,27.98,,50,1,18,namecheap,,
+05506df7-a1a1-41ee-94ae-95bcf2931396,manage.you,resell,,,74,40,6,"Dynadot, LLC",22/10/2025 10:29,22/10/2026 10:29
 0566db00-c23c-4211-9183-28d923d8e650,deepdiving.you,available,27.98,,76,2,11,namecheap,,
 056887de-71e4-4df3-a297-16172f3e3d06,quieted.you,available,27.98,,55,2,7,namecheap,,
 058db235-36bf-42cc-9596-201609a51b2b,tobetruthful.you,available,27.98,,46,1,14,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5970dcf5-a6ce-4727-b7e9-f5c3b4aa5bb8,arrested.you,premium,62.5,,60,7,8,name.com,,
 59872ae8-b340-4645-93fb-853936c18481,keepoutof.you,available,27.98,,68,0,11,namecheap,,
 59972c47-3e12-473b-9095-cc32ffe9b9df,getwet.you,available,27.98,,74,5,7,namecheap,,
-59d53765-732b-494d-b872-7ec4d31c636d,traded.you,available,27.98,,52,6,6,namecheap,,
