@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .you one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,044 domains · **Median ask:** $177.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/you`  
 **Best for:** founders, investors, studios
 
@@ -68,8 +68,8 @@ print(df.head())
 | Trex.you         | available | $27.98    | —             | 80             | 24     | 5      | namecheap       |
 | jewels.you       | available | $27.98    | —             | 80             | 15     | 6      | namecheap       |
 | barup.you        | available | $27.98    | —             | 82             | 2      | 6      | namecheap       |
-| getup.you        | available | $27.98    | —             | 82             | 14     | 6      | namecheap       |
-| popup.you        | available | $27.98    | —             | 84             | 29     | 6      | namecheap       |
+| getup.you        | available | $27.98    | —             | 82             | 15     | 6      | namecheap       |
+| popup.you        | available | $27.98    | —             | 84             | 28     | 6      | namecheap       |
 | useit.you        | available | $27.98    | —             | 94             | 7      | 6      | namecheap       |
 | playin.you       | available | $27.98    | —             | 80             | 10     | 7      | namecheap       |
 | hangon.you       | available | $27.98    | —             | 82             | 6      | 7      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
