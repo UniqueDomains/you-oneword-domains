@@ -1,10 +1,10 @@
-# Available .YOU One-Word Domains (10,044)
+# Available .YOU One-Word Domains (10,049)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C044%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C049%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .you one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,044 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,049 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,044 domains · **Median ask:** $177.95 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,049 domains · **Median ask:** $137.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/you`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/you`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .YOU one-word domain c
 
 ### Files
 
-- `you.csv` — public CSV extract (1,000 rows)
-- `you.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `you.csv`, public CSV extract (1,000 rows)
+- `you.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.you         | available | $27.98    | —             | 80             | 5      | 5      | namecheap       |
-| Trex.you         | available | $27.98    | —             | 80             | 24     | 5      | namecheap       |
-| jewels.you       | available | $27.98    | —             | 80             | 15     | 6      | namecheap       |
-| barup.you        | available | $27.98    | —             | 82             | 2      | 6      | namecheap       |
-| getup.you        | available | $27.98    | —             | 82             | 15     | 6      | namecheap       |
-| popup.you        | available | $27.98    | —             | 84             | 28     | 6      | namecheap       |
-| useit.you        | available | $27.98    | —             | 94             | 7      | 6      | namecheap       |
-| playin.you       | available | $27.98    | —             | 80             | 10     | 7      | namecheap       |
-| hangon.you       | available | $27.98    | —             | 82             | 6      | 7      | namecheap       |
-| pierogi.you      | available | $27.98    | —             | 82             | 7      | 7      | namecheap       |
-| dogsick.you      | available | $27.98    | —             | 90             | 1      | 7      | namecheap       |
-| getlife.you      | available | $27.98    | —             | 80             | 5      | 8      | namecheap       |
-| Snickers.you     | available | $27.98    | —             | 80             | 10     | 8      | namecheap       |
-| lightup.you      | available | $27.98    | —             | 82             | 15     | 8      | namecheap       |
-| nets.you         | available | $27.98    | —             | 54             | 81     | 4      | namecheap       |
-| makers.you       | resell    | —         | —             | 62             | 67     | 6      | Porkbun LLC     |
-| winners.you      | premium   | $625      | —             | 60             | 81     | 7      | name.com        |
-| neuroscience.you | available | $27.98    | —             | 80             | 37     | 12     | namecheap       |
-| auto.you         | resell    | —         | —             | 68             | 45     | 4      | Spaceship, Inc. |
-| Chanel.you       | premium   | $350      | $350          | 80             | 77     | 6      | namecheap       |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| okay.you    | premium   | $312.50   | $312.50       | high           | low    | 4      | name.com        |
+| content.you | premium   | $1,250    | $1,250        | high           | low    | 7      | name.com        |
+| bang.you    | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo        |
+| bulb.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| Bets.you    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| aaa.you     | premium   | $650      | $650          | high           | medium | 3      | namecheap       |
+| bust.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| into.you    | resell    | —         | —             | medium         | low    | 4      | Dynadot, LLC    |
+| atp.you     | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| clam.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| touch.you   | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC    |
+| bar.you     | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| dime.you    | available | $22.99    | $22.99        | medium         | low    | 4      | namesilo        |
+| belong.you  | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
+| ben.you     | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| Jody.you    | available | $27.98    | —             | high           | low    | 4      | namecheap       |
+| loving.you  | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
+| bid.you     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo        |
+| knot.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| wander.you  | resell    | —         | —             | medium         | low    | 6      | Dynadot, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,044 live domains                        |
+| 1,000-row public sample | 10,049 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .you domains. The set leans toward short, direct words and compact brandables such as Acup.you, Trex.you, popup.you, and matcha.you. For founders, the main question is whether the word feels memorable and usable without extra context. For investors, the main question is whether the ask leaves room versus the quality of the word itself. With a median ask of $177.95, pricing is relatively accessible, but the better names in this set will still depend on clarity, commercial intent, and how naturally the word fits the .you ending.
+This list covers one-word .YOU domain names built from short, common words like out, half, okay, christmas, bad, correct, sorry, great, content, and come. With a median ask near $137, the set spans everyday vocabulary that reads clean as a single word on the .YOU extension. Because every entry pairs one dictionary word with .YOU, spelling and pronunciation stay simple, which matters most when picking a name meant to be typed, said, and remembered.
 
-- All results are one-word domains on the .you extension
-- Median ask across this set is $177.95
-- Short, clear words tend to be easier to remember
-- Check wording for brand fit and trademark risk
+- 10,049 one-word .YOU domains in this selection
+- Median ask near $137 across the list
+- Everyday words: out, half, okay, christmas, bad, sorry
+- One word + .YOU keeps names short and easy to say
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
