@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .you one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,232 domains · **Median ask:** $87.01 · **High-demand under $2,500:** 58
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/you`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| okay.you   | premium   | $312.50   | $312.50       | high           | low    | 4      | name.com        |
-| bang.you   | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo        |
-| own.you    | premium   | $625      | —             | high           | high   | 3      | name.com        |
-| bulb.you   | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
-| Bets.you   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| aaa.you    | premium   | $650      | $650          | high           | medium | 3      | namecheap       |
-| bust.you   | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
-| into.you   | resell    | —         | —             | medium         | low    | 4      | Dynadot, LLC    |
-| atp.you    | premium   | $625      | —             | medium         | low    | 3      | name.com        |
-| clam.you   | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
-| touch.you  | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC    |
-| bar.you    | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| dime.you   | available | $22.99    | $22.99        | medium         | low    | 4      | namesilo        |
-| belong.you | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
-| ben.you    | premium   | $625      | —             | high           | medium | 3      | name.com        |
-| Jody.you   | available | $27.98    | —             | high           | low    | 4      | namecheap       |
-| loving.you | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
-| bid.you    | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo        |
-| knot.you   | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
-| wander.you | resell    | —         | —             | medium         | low    | 6      | Dynadot, LLC    |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bulb.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| Bets.you    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| aaa.you     | premium   | $650      | $650          | high           | medium | 3      | namecheap       |
+| bust.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| into.you    | resell    | —         | —             | medium         | low    | 4      | Dynadot, LLC    |
+| atp.you     | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| clam.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| touch.you   | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC    |
+| bar.you     | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| dime.you    | available | $22.99    | $22.99        | medium         | low    | 4      | namesilo        |
+| belong.you  | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
+| ben.you     | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| Jody.you    | available | $27.98    | —             | high           | low    | 4      | namecheap       |
+| loving.you  | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
+| bid.you     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo        |
+| knot.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| wander.you  | resell    | —         | —             | medium         | low    | 6      | Dynadot, LLC    |
+| BJP.you     | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| omen.you    | available | $22.99    | $22.99        | high           | low    | 4      | namesilo        |
+| advisor.you | resell    | —         | —             | high           | low    | 7      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOU One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
